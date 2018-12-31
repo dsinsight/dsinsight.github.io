@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" #"default" , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" #"default" , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "air"
 
 # Site Settings
 locale                   : "en-IN"
 title                    : "Data Science Insight"
 title_separator          : "-"
-name                     : "Pronod Kumar Bharatiya"
+name                     : "dsinsight"
 description              : "Journey Towards Data Science Insight"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pronod Kumar Bharatiya"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "This blog contains my journey towards learning of data science insight"
+  location         : "India"
   email            :
   links:
     - label: "Email"
